@@ -1,9 +1,5 @@
 # Color Detection Program with OpenCV
 ---
-![pitcture1]()
-![pitcture2]()
-![pitcture3]()
-![gif1]()
 ### Color Detection using OpenCV and Python
 
 This project is a color detection program implemented with OpenCV and Python. In consideration of color weakness patients who cannot see a specific color or the optical illusion effect of colors that see the same color differently depending on the angle of light, a project was carried out to extract the color desired by the user in the image using it
@@ -52,6 +48,19 @@ IMG_PATH = "blue.jpg"
 ---
 The result is a color palette composed of the main colors of the image and a name of the corresponding color, and an image output from which the color selected by the user is extracted.
 
+![clip1](https://github.com/hj0304/Hue-Detection/assets/99193939/8d26d2f6-b626-4e35-8ead-e920775f11c0)
+
+
+- **output of color pallet** 
+- ![color](https://github.com/hj0304/Hue-Detection/assets/99193939/5836e56d-8259-40fa-bce7-6daaf19fa873)
+
+- **Output of Origin, mask, and Extract color image**
+ ![extract](https://github.com/hj0304/Hue-Detection/assets/99193939/c644e7ca-5f5b-423a-8e7e-1803c49d59b1)
+
+- **Output terminal**
+    ![terminal](https://github.com/hj0304/Hue-Detection/assets/99193939/fc75e114-dc0c-4391-8644-bc08448ac418)
+
+
 ## **The limitations**
 ---
 Image Quality: The accuracy of color detection may be influenced by the quality of the image.
@@ -66,4 +75,3 @@ Limited Color Name : Only 140 unique color names used for CSS2 can be presented 
 - [https://gogetem.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-RGB-]( https://gogetem.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-RGB-%EC%88%AB%EC%9E%90%EB%A1%9C-%EC%83%89%EA%B9%94-%EC%9D%B4%EB%A6%84-%ED%94%84%EB%A6%B0%ED%8A%B8%ED%95%98%EA%B8%B0-feat-webcolors)
 - [https://stickode.tistory.com/577](https://stickode.tistory.com/577)
 ```
-Thank you

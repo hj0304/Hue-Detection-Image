@@ -1,5 +1,9 @@
 # Color Detection Program with OpenCV
 ---
+![pitcture1]()
+![pitcture2]()
+![pitcture3]()
+![gif1]()
 ### Color Detection using OpenCV and Python
 
 This project is a color detection program implemented with OpenCV and Python. In consideration of color weakness patients who cannot see a specific color or the optical illusion effect of colors that see the same color differently depending on the angle of light, a project was carried out to extract the color desired by the user in the image using it

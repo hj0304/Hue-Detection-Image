@@ -48,17 +48,17 @@ IMG_PATH = "blue.jpg"
 ---
 The result is a color palette composed of the main colors of the image and a name of the corresponding color, and an image output from which the color selected by the user is extracted.
 
-![clip1](https://github.com/hj0304/Hue-Detection/assets/99193939/8d26d2f6-b626-4e35-8ead-e920775f11c0)
+![clip1](https://github.com/hj0304/Hue-Detection-Image/assets/99193939/8d26d2f6-b626-4e35-8ead-e920775f11c0)
 
 
 - **output of color pallet** 
-- ![color](https://github.com/hj0304/Hue-Detection/assets/99193939/5836e56d-8259-40fa-bce7-6daaf19fa873)
+- ![color](https://github.com/hj0304/Hue-Detection-Image/assets/99193939/5836e56d-8259-40fa-bce7-6daaf19fa873)
 
 - **Output of Origin, mask, and Extract color image**
- ![extract](https://github.com/hj0304/Hue-Detection/assets/99193939/c644e7ca-5f5b-423a-8e7e-1803c49d59b1)
+ ![extract](https://github.com/hj0304/Hue-Detection-Image/assets/99193939/c644e7ca-5f5b-423a-8e7e-1803c49d59b1)
 
 - **Output terminal**
-    ![terminal](https://github.com/hj0304/Hue-Detection/assets/99193939/fc75e114-dc0c-4391-8644-bc08448ac418)
+    ![terminal](https://github.com/hj0304/Hue-Detection-Image/assets/99193939/fc75e114-dc0c-4391-8644-bc08448ac418)
 
 
 ## **The limitations**

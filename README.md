@@ -62,3 +62,4 @@ Limited Color Name : Only 140 unique color names used for CSS2 can be presented 
 - [https://gogetem.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-RGB-]( https://gogetem.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-RGB-%EC%88%AB%EC%9E%90%EB%A1%9C-%EC%83%89%EA%B9%94-%EC%9D%B4%EB%A6%84-%ED%94%84%EB%A6%B0%ED%8A%B8%ED%95%98%EA%B8%B0-feat-webcolors)
 - [https://stickode.tistory.com/577](https://stickode.tistory.com/577)
 ```
+Thank you
